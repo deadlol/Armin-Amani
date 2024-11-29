@@ -33,7 +33,8 @@
   },
   "overrides": {
     "react-refresh": "0.11.0",
-    "react-error-overlay": "$react-error-overlay"
+    "react-error-overlay": "$react-error-overlay",
+    "react": "$react",
 },
   "eslintConfig": {
     "extends": [
