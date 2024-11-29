@@ -13,7 +13,7 @@ const Works = ({item}) => {
     >
       <div className="box-item">
         <div className="image">
-          <a href={item.href} aria-label={item.name} target="_blank">
+          <a href={item.href} aria-label={item.name}>
             <div className="icon-box">
               <MdOutlineRemoveRedEye
                 className="p-icon"
