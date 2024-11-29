@@ -32,7 +32,8 @@
     "eject": "react-scripts eject"
   },
   "overrides": {
-    "react-refresh": "0.11.0"
+    "react-refresh": "0.11.0",
+    "react-error-overlay": "$react-error-overlay"
 },
   "eslintConfig": {
     "extends": [
