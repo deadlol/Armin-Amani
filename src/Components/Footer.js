@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="section f-section">
       <div className="f-container">
         <div className="f-credits">
-          <p> designed by <a href="https://m-pouyanfar.pages.dev/" target="_blank" className="highlight">Mohammad Pouyanfar</a></p>
+          <p> designed by <a href="https://m-pouyanfar.pages.dev/" className="highlight">Mohammad Pouyanfar</a></p>
         </div>
       </div>
     </div>
