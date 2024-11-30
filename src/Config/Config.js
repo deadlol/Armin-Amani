@@ -7,7 +7,7 @@ export const SkillSet=[
     {
         id: "1",
         name: "Matlab",
-        imgsrc: "images/Matlab.png"
+        imgsrc: "images/matlab.png"
     },
     {
         id: "2",
