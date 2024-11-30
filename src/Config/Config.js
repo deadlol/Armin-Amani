@@ -37,8 +37,8 @@ export const ProjImg = [
         id: "1",
         name: "Data Science",
         category: "Certificate",
-        imgsrc: "projectImg/cetificates/c1.jpg",
-        href: "https://i.ibb.co/BZHgvjz/c1.jpg"
+        imgsrc: "projectImg/cetificates/c1.JPG",
+        href: "https://i.ibb.co/BZHgvjz/c1.JPG"
     },
     {
         id: "2",
@@ -49,7 +49,7 @@ export const ProjImg = [
     },
     {
         id: "3",
-        name: "Analysis of Euler Bernoulli beam deflection (simply support) with PINN",
+        name: "Nonlocal Simply-Supported Timoshenko Beam deformation with DQM",
         category: "Project",
         imgsrc: "projectImg/projects/p1.png",
         href: "https://i.ibb.co/j6x3f8y/p1.png"
