@@ -93,10 +93,17 @@ export const Education=[
 
     {
         id: 1,
-        date: "Sep 2021-Present",
+        date: "Sep 2021-2025",
         name: "Urmia University of Technology",
         company: "West Azerbaijan - Urmia",
-        desc: "bachelor's degree, Aerospace engineering"
+        desc: "Bachelor's degree, Aerospace engineering"
+    },
+        {
+        id: 1,
+        date: "Sep 2025-Present",
+        name: "Sharif University of Technology",
+        company: "Tehran - Tehran",
+        desc: "Master's degree, Aerospace engineering(Aerodynamics)"
     },
 ]
 export const Services=[
